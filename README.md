@@ -1,4 +1,4 @@
-Questions and Answers for Yii 2
+Questions and Answers for Yii 2 FORK
 =======
 
 [![Packagist Version](https://img.shields.io/packagist/v/artkost/yii2-qa.svg?style=flat-square)](https://packagist.org/packages/artkost/yii2-qa)
